@@ -1,0 +1,10 @@
+edu\arsw\blueprints\config\WebConfig.class
+edu\arsw\blueprints\config\WebSocketConfig.class
+edu\arsw\blueprints\model\Blueprint.class
+edu\arsw\blueprints\model\DrawMessage.class
+edu\arsw\blueprints\controller\BlueprintController.class
+edu\arsw\blueprints\controller\BlueprintWebSocketController.class
+edu\arsw\blueprints\BlueprintsApplication.class
+edu\arsw\blueprints\model\Point.class
+edu\arsw\blueprints\service\BlueprintService.class
+edu\arsw\blueprints\repository\InMemoryBlueprintRepository.class
